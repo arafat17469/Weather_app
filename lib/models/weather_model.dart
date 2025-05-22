@@ -24,7 +24,7 @@ class Weather {
       humidity: json['main']['humidity'],
       sunrise: json['sys']['sunrise'],
       sunset: json['sys']['sunset'],
-      temperature: (json['main']['temp'] - 273.15), // Kelvin to Celsius
+      temperature: (json['main']['temp'] - 273.15),
       windSpeed: json['wind']['speed'].toDouble(),
     );
   }

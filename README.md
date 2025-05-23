@@ -44,7 +44,7 @@ This app demonstrates modern Flutter development practices, including:
 
 | Home Screen                          | Weather Display with Animation        |
 |------------------------------------|--------------------------------------|
-| ![Home Screen](screenshots/home.png) | ![Weather Card](screenshots/weather_card.png) |
+| ![Screenshot 1]([screenshots/home.png](https://github.com/arafat17469/Weather_app/blob/main/app1.jpeg)) | ![Screenshot 2]([screenshots/weather_card.png](https://github.com/arafat17469/Weather_app/blob/main/app2.jpeg)) |
 
 > **Note:** Replace these with actual screenshots stored in the `screenshots` folder.
 

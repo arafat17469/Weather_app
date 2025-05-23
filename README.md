@@ -10,7 +10,7 @@
 
 Watch a full walkthrough and demo of the Flutter Weather App here:
 
-[![Watch the video](https://img.youtube.com/vi/shorts/wiW_odxaq2o/0.jpg)]([https://youtu.be/YOUR_VIDEO_ID](https://www.youtube.com/shorts/wiW_odxaq2o))
+[![Watch the video]()]([https://youtu.be/YOUR_VIDEO_ID](https://www.youtube.com/shorts/wiW_odxaq2o))
 
 > **Note:** Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.
 

@@ -52,7 +52,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   _weather!.description.toLowerCase().contains('rain')
               ? const LinearGradient(
                   colors: [
-                    Color.fromARGB(91, 158, 158, 158),
+                    Color.fromARGB(91, 157, 116, 204),
                     Color.fromARGB(255, 97, 25, 212)
                   ],
                   begin: Alignment.topCenter,
@@ -62,7 +62,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       _weather!.description.toLowerCase().contains('clear')
                   ? const LinearGradient(
                       colors: [
-                        Colors.orangeAccent,
+                        Color.fromARGB(255, 236, 107, 20),
                         Color.fromARGB(255, 133, 15, 207)
                       ],
                       begin: Alignment.topCenter,
@@ -71,7 +71,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   : const LinearGradient(
                       colors: [
                         Color.fromARGB(255, 71, 7, 121),
-                        Color.fromARGB(255, 224, 102, 14)
+                        Color.fromARGB(255, 119, 20, 211)
                       ],
                       begin: Alignment.topCenter,
                       end: Alignment.bottomCenter,
@@ -101,7 +101,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     hintStyle: const TextStyle(
                         color: Color.fromARGB(255, 255, 255, 255)),
                     filled: true,
-                    fillColor: const Color.fromARGB(87, 225, 19, 232),
+                    fillColor: const Color.fromARGB(75, 6, 20, 209),
                     border: OutlineInputBorder(
                       borderRadius: BorderRadius.circular(30),
                     ),
@@ -111,7 +111,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 ElevatedButton(
                   onPressed: _getWeather,
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: const Color.fromARGB(255, 225, 19, 232),
+                    backgroundColor: const Color.fromARGB(255, 19, 69, 232),
                     foregroundColor: const Color.fromARGB(255, 227, 227, 227),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(30),

@@ -42,7 +42,7 @@ This app demonstrates modern Flutter development practices, including:
 
 ## 🖼️ Screenshots
 
-| Home Screen | Weather Display with Animation |
+| Screenshot 1 | Screenshot 2 |
 |-------------|--------------------------------|
 | ![Screenshot 1](https://github.com/arafat17469/Weather_app/blob/main/app1.jpeg) | ![Screenshot 2](https://github.com/arafat17469/Weather_app/blob/main/app2.jpeg) |
 

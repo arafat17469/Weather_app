@@ -40,9 +40,9 @@ The **Flutter Weather App** is a beautifully designed mobile application that pr
 
 ## 🖼️ Screenshots
 
-| Home | Details 1 | Details 2 | Loading/Error |
+| Home | Details 1 | Details 2 | Details 3 |
 |------|-----------|-----------|----------------|
-| ![](https://github.com/arafat17469/Weather_app/blob/main/APP.jpg) | ![](https://github.com/arafat17469/Weather_app/blob/main/APP1.jpg) | ![](https://github.com/arafat17469/Weather_app/blob/main/APP2.jpg) | ![](https://github.com/arafat17469/Weather_app/blob/main/APP3.jpg) |
+| ![](https://github.com/arafat17469/Weather_app/blob/main/APP.jpg) | ![](https://github.com/arafat17469/Weather_app/blob/main/APP1.jpg) | ![](https://github.com/arafat17469/Weather_app/blob/main/APP2.jpg) | ![](https://github.com/arafat17469/Weather_app/blob/main/APP4.jpg) |
 
 ---
 

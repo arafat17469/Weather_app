@@ -16,31 +16,31 @@ Watch a full walkthrough and demo of the Flutter Weather App here:
 
 ## 📝 Project Overview
 
-The **Flutter Weather App** is a sophisticated mobile application that provides real-time weather information for any city worldwide using the OpenWeatherMap API.
+The **Flutter Weather App** is a beautifully designed mobile application that provides real-time weather information for any city worldwide using the OpenWeatherMap API.
 
-This app demonstrates modern Flutter development practices, including:
+### 💡 What You'll Learn:
 
-- Asynchronous data fetching and error handling  
-- Clean and maintainable code structure with services, models, and widgets separation  
-- Integration of animated weather icons using Lottie  
-- Responsive and user-friendly UI design  
-- State management using `StatefulWidget`
+- Asynchronous data fetching & API integration  
+- Error handling & state management  
+- Animated weather icons using **Lottie**  
+- Responsive UI using **Material Design**  
+- Separation of concerns with clean folder structure
 
 ---
 
 ## 🚀 Features
 
-- 🔍 **City-based weather lookup** – Search weather by city name  
-- 🌡️ **Detailed weather info** – Temperature (°C), humidity, wind speed, sunrise & sunset  
-- 🎞️ **Animations** – Lottie-based animations reflecting weather conditions (rainy, sunny, cloudy)  
-- 🧯 **Robust error handling** – Friendly error messages and loading indicators  
-- 🧩 **Clean UI** – Material Design layout optimized for multiple screen sizes
+- 🔍 **Search weather by city name**
+- 🌦️ **Detailed weather info** – Temperature, humidity, wind speed, sunrise & sunset times
+- 🎞️ **Weather animations** using Lottie (rain, sunny, cloudy)
+- ⚠️ **Error handling** with user-friendly messages
+- 💡 **Clean, responsive UI** for all screen sizes
 
 ---
 
 ## 🖼️ Screenshots
 
-| Home | Details 1 | Details 2 | Details 3 |
+| Home | Details 1 | Details 2 | Loading/Error |
 |------|-----------|-----------|----------------|
 | ![](https://github.com/arafat17469/Weather_app/blob/main/APP.jpg) | ![](https://github.com/arafat17469/Weather_app/blob/main/APP1.jpg) | ![](https://github.com/arafat17469/Weather_app/blob/main/APP2.jpg) | ![](https://github.com/arafat17469/Weather_app/blob/main/APP3.jpg) |
 
@@ -50,16 +50,16 @@ This app demonstrates modern Flutter development practices, including:
 
 ```plaintext
 lib/
-├── main.dart                   # Entry point of the app
+├── main.dart                   # App entry point
 ├── screens/
-│   └── home_screen.dart        # Main screen with UI and logic
+│   └── home_screen.dart        # Main UI and logic
 ├── services/
-│   └── weather_services.dart   # Handles API requests to OpenWeatherMap
+│   └── weather_services.dart   # Handles API requests
 ├── models/
-│   └── weather_model.dart      # Weather data model and JSON parsing
+│   └── weather_model.dart      # Weather model + JSON parsing
 ├── widgets/
-│   └── weather_card.dart       # Reusable widget to display weather info
+│   └── weather_card.dart       # Custom weather info UI widget
 assets/
-├── rain.json                   # Lottie animation for rainy weather
-├── sunny.json                  # Lottie animation for sunny weather
-├── cloudy.json                 # Lottie animation for cloudy weather
+├── rain.json                   # Rain animation (Lottie)
+├── sunny.json                  # Sunny animation
+├── cloudy.json                 # Cloudy animation

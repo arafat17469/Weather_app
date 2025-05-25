@@ -49,9 +49,8 @@ The **Flutter Weather App** is a beautifully designed mobile application that pr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/meahadi-hasan/Weather-App.git
-   cd Weather-App
-
+   git clone https://github.com/arafat17469/Weather_app.git
+   cd Weather_app
 2. Get dependencies:
 
    ```bash

@@ -44,7 +44,7 @@ This app demonstrates modern Flutter development practices, including:
 
 | Screenshot 1 | Screenshot 2 |
 |-------------|--------------------------------|
-| ![Screenshot 1](https://github.com/arafat17469/Weather_app/blob/main/app1.jpeg) | ![Screenshot 2](https://github.com/arafat17469/Weather_app/blob/main/app2.jpeg) |
+| ![Screenshot 1](https://github.com/arafat17469/Weather_app/blob/main/app1.jpeg) | ![Screenshot 2](https://github.com/arafat17469/Weather_app/blob/main/app2.jpeg) | ![Screenshot 1](https://github.com/arafat17469/Weather_app/blob/main/app1.jpeg) | ![Screenshot 2](https://github.com/arafat17469/Weather_app/blob/main/app2.jpeg) |
 
 > **Note:** Ensure the images `app1.jpeg` and `app2.jpeg` are correctly uploaded in the root of your repository.
 

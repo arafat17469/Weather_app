@@ -45,7 +45,28 @@ The **Flutter Weather App** is a beautifully designed mobile application that pr
 | ![](https://github.com/arafat17469/Weather_app/blob/main/APP.jpg) | ![](https://github.com/arafat17469/Weather_app/blob/main/APP1.jpg) | ![](https://github.com/arafat17469/Weather_app/blob/main/APP2.jpg) | ![](https://github.com/arafat17469/Weather_app/blob/main/APP4.jpg) |
 
 ---
+## 🚀 Installation
 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/meahadi-hasan/Weather-App.git
+   cd Weather-App
+
+2. Get dependencies:
+
+   ```bash
+   flutter pub get
+
+3. Run the app:
+
+   ```bash
+   flutter run
+
+4. Build  the app:
+
+   ```bash
+   flutter build apk --release
+---
 ## 📂 Folder Structure
 
 ```plaintext
